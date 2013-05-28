@@ -1,0 +1,294 @@
+<?xml version="1.0"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.2//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+
+	<book  lang="es">
+		<title>Manual de Usuario - VolandoConAlas</title>
+		<bookinfo>
+	      		<date>Mayo 2013</date>
+	     		<title>Volando con Alas</title>
+			<subtitle>Manual de Uso</subtitle>
+	      		<author>
+	        		<firstname>Roberto</firstname>
+	       			 <surname>García Sánchez</surname>
+	     		</author>
+			<revhistory>
+				<revision>
+					<revnumber>1.0</revnumber>
+        				<date>22-05-2013</date>
+        				<authorinitials>rgs</authorinitials>
+       					<revremark>Documento original</revremark>
+				</revision>
+			</revhistory>
+	   	 </bookinfo>
+
+	    	<chapter id="Introduccion">
+	      		<title>Introducción</title>
+	     		<para>
+	      			En este manual se explica el funcionamiento del módulo de Reservas de la compañia aérea LowCost, VolandoConAlas, para que sus usuarios, puedan hacer un uso cómodo y efectivo de todas sus funcionalidades.
+	     		</para>
+	    	</chapter>
+
+		<chapter id="Vistazo">
+	      		<title>Un vistazo a la pantalla</title>
+	     		<para>
+	      			A continuación se muestra una captura de la pantalla del módulo de reservas, y la descripción de cada
+				uno de sus elementos.
+	     		</para>
+			
+			<mediaobject>
+				<imageobject> 
+					<imagedata fileref="../img/01.png" format="PNG" /> 
+				</imageobject>
+				<textobject> 
+					<phrase>Pantalla de Reservas</phrase> 
+				</textobject>
+				<caption>
+        				<para>Pantalla de Reservas</para>
+				</caption>
+			</mediaobject>
+			
+			<orderedlist>
+				<listitem>
+					<para>Lista para la seleción de la ciudad de origen y destino</para>
+				</listitem>
+				<listitem>
+					<para>Tipo de viaje: Ida y vuelta / Sólo ida</para>
+				</listitem>
+				<listitem>
+					<para>Calendario para la selección de fechas de salida y regreso de los vuelos</para>
+				</listitem>
+				<listitem>
+					<para>Lista de selección de preferencia de horarios</para>
+				</listitem>
+				<listitem>
+					<para>Selección de número de pasajeros adultos y niños</para>
+				</listitem>
+				<listitem>
+					<para>Tipo de pasaje: Turista / Primera clase</para>
+				</listitem>
+				<listitem>
+					<para>Seleccionar como se quiere que se presenten los resultados ordenados</para>
+				</listitem>
+				<listitem>
+					<para>Opción para mostrar diferentes alternativas de fechas</para>
+				</listitem>
+				<listitem>
+					<para>Botón para iniciar la búsqueda de vuelos</para>
+				</listitem>
+				<listitem>
+					<para>Botón para limpiar el formulario de búsqueda</para>
+				</listitem>
+				<listitem>
+					<para>Zona donde se muestran los resultados de la búsqueda</para>
+				</listitem>
+			</orderedlist>			
+	    	</chapter>
+
+		<chapter id="Proceso">
+	      		<title>Proceso de búsqueda de vuelos</title>
+	     		<para>
+	      			A continuación se va a detallar cómo se debe realizar la búsqueda de vuelos mediante el módulo de Reservas, sida detenidamente los pasos descritos:
+	     		</para>
+			<orderedlist>
+				<listitem>
+					<para>Seleccione la cuiudad de origen:</para>
+				<mediaobject>
+					<imageobject> 
+						<imagedata fileref="../img/02.png" format="PNG" scale="50"/> 
+					</imageobject>
+					<textobject> 
+						<phrase>Selección de origen</phrase> 
+					</textobject>
+					<caption>
+        					<para>Selección de origen</para>
+					</caption>
+				</mediaobject>
+				</listitem>
+				<listitem>
+					<para>Seleccione la ciudad de destino:</para>
+				<mediaobject>
+					<imageobject> 
+						<imagedata fileref="../img/03.png" format="PNG" scale="50"/> 
+					</imageobject>
+					<textobject> 
+						<phrase>Selección de destino</phrase> 
+					</textobject>
+					<caption>
+        					<para>Selección de destino</para>
+					</caption>
+				</mediaobject>
+				</listitem>
+				<listitem>
+					<para>Seleccione tipo de viaje: ida y vuelta / sólo ida</para>
+				<mediaobject>
+					<imageobject> 
+						<imagedata fileref="../img/04.png" format="PNG" scale="50"/> 
+					</imageobject>
+					<textobject> 
+						<phrase>Seleccione tipo de viaje: ida y vuelta / sólo ida</phrase> 
+					</textobject>
+					<caption>
+        					<para>Seleccione tipo de viaje: ida y vuelta / sólo ida</para>
+					</caption>
+				</mediaobject>
+				</listitem>
+				<listitem>
+					<para>Indique la fecha de salida</para>
+				<mediaobject>
+					<imageobject> 
+						<imagedata fileref="../img/05.png" format="PNG" scale="50"/> 
+					</imageobject>
+					<textobject> 
+						<phrase>Selección de fecha de salida</phrase> 
+					</textobject>
+					<caption>
+        					<para>Selección de fecha de salida</para>
+					</caption>
+				</mediaobject>
+				</listitem>
+				<listitem>
+					<para>Indique la fecha de regreso</para>
+				<mediaobject>
+					<imageobject> 
+						<imagedata fileref="../img/06.png" format="PNG" scale="50"/> 
+					</imageobject>
+					<textobject> 
+						<phrase>Selección de fecha de regreso</phrase> 
+					</textobject>
+					<caption>
+        					<para>Selección de fecha de regreso</para>
+					</caption>
+				</mediaobject>
+				</listitem>
+				<listitem>
+					<para>Si tiene preferencias de horarios de salida o regreso:</para>
+				<mediaobject>
+					<imageobject> 
+						<imagedata fileref="../img/07.png" format="PNG" scale="50"/> 
+					</imageobject>
+					<textobject> 
+						<phrase>Preferencia de horario</phrase> 
+					</textobject>
+					<caption>
+        					<para>Preferencia de horario</para>
+					</caption>
+				</mediaobject>
+				</listitem>
+				<listitem>
+					<para>Tipo de billete: Turista / Primera clase</para>
+				<mediaobject>
+					<imageobject> 
+						<imagedata fileref="../img/08.png" format="PNG" scale="50"/> 
+					</imageobject>
+					<textobject> 
+						<phrase>Tipo de Billete</phrase> 
+					</textobject>
+					<caption>
+        					<para>Tipo de Billete</para>
+					</caption>
+				</mediaobject>
+				</listitem>
+				<listitem>
+					<para>Orden de presentación de los vuelos disponibles:</para>
+				<mediaobject>
+					<imageobject> 
+						<imagedata fileref="../img/09.png" format="PNG" scale="50"/> 
+					</imageobject>
+					<textobject> 
+						<phrase>Opción de orden de vuelos</phrase> 
+					</textobject>
+					<caption>
+        					<para>Opción de orden de vuelos</para>
+					</caption>
+				</mediaobject>
+				</listitem>
+				<listitem>
+					<para>Opción para flexibilidad de Fechas</para>
+				<mediaobject>
+					<imageobject> 
+						<imagedata fileref="../img/10.png" format="PNG" scale="50"/> 
+					</imageobject>
+					<textobject> 
+						<phrase>Flexibildiad de Fechas</phrase> 
+					</textobject>
+					<caption>
+        					<para>Flexibildiad de Fechas</para>
+					</caption>
+				</mediaobject>
+				</listitem>
+			</orderedlist>
+	    	</chapter>
+
+		<chapter id="Licencia">
+	      		<title>Licencia</title>
+	     		<para>
+				Este manual se distribuye bajo licencia Creative Commons (CC BY-SA)
+	      			La redistribución y uso con o sin modificaciones de este manual son permitidos siempre bajo la misma licencia.
+	     		</para>
+	    	</chapter>
+
+		<chapter id="Creditos">
+	      		<title>Créditos</title>
+	     		<para>Este manual ha sido realizado por Roberto García Sánchez, como parte de los trabajos de evaluación continua de la asignatura Ingeniría del Software, de la Maestría de Software Libre de la Universitat Uberta de Catalunya, UOC. 
+Mayo 2013.
+	     		</para>
+
+	    	</chapter>
+
+
+		<chapter id="Enlaces">
+	      		<title>Enlaces Consultados</title>
+	     		<para>
+				A continuación algunos enlaces donde podremos encontrar información útil sobre DocBook:
+			</para>
+			<para>
+				<ulink url="http://www.docbook.org/tdg5/publishers/5.0/en/html/docbook.html">DocBook Publishers: The Definitive Guide</ulink>
+	     		</para>
+		<caution>
+			<title>Aviso</title>
+           		<para>	
+				El sistema de <application> Volando con Alas</application>
+				está en continuo desarrollo, lo que significa que debe revisar que
+            			<keycap>versión</keycap> está usando de este manual.
+			</para>
+         	</caution>
+	    	</chapter>
+
+		<appendix id="faq">
+  			<title>Preguntas Frecuentes</title>
+  			<qandaset defaultlabel="number">
+    				<qandaentry>
+     					<question>
+        					<para><keycap>¿Puedo realizar búsquedas a múltiples destinos?</keycap></para>
+      					</question>
+      					<answer>
+        					<para>Por el momento no, pero ya estamos trabajando para implementar esta opción.</para>
+      					</answer>
+   	 			</qandaentry>
+   				<qandaentry>
+      					<question>
+        					<para><keycap>¿Qué pasa si tardo mucho tiempo en elegir mis vuelos?</keycap></para>
+      					</question>
+      					<answer>
+        					<para>Las búsquedas tienen una disponibilidad de 300 segundos, es decir, 5 minutos. Esto se debe a que la alta demanda de vuelos hace que la disponibilidad de los mismos se vean sujetos a la confirmaciones de las reservas de otros pasajeros.</para>
+      					</answer>
+    				</qandaentry>
+				<qandaentry>
+     					<question>
+        					<para><keycap>¿Los niños menores de 2 años necesitan billete?</keycap></para>
+      					</question>
+      					<answer>
+        					<para>No. Los niños menores de 2 años no requieren de billete, pero igualmente necesita registrarlo, para poder ofrecerle la atención debida. Recuerde que debe presentar toda la documentación que pudiera requerirsele.</para>
+      					</answer>
+   	 			</qandaentry>
+				<qandaentry>
+     					<question>
+        					<para><keycap>Si tengo algún problema, ¿con quién puedo comunicarme?</keycap></para>
+      					</question>
+      					<answer>
+        					<para>En nuestra página www.volandoconalas.com diponemos de servicio de atención en línea las 24 horas, 365 días al año, o si lo prefiere puede enviarnos un mail a yatecontestare@volandoconalas.com, o llamar al telefono 555-555-555.</para>
+      					</answer>
+   	 			</qandaentry>
+  			</qandaset>
+		</appendix>
+	</book>
